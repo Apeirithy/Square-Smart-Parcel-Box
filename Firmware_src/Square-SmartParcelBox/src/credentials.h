@@ -1,19 +1,15 @@
 #ifndef CREDENTIALS_H
 #define CREDENTIALS_H
 
-// #define WIFI_SSID             "MacronetLaptop"
-// #define WIFI_PASSWORD         "d3fenders"
+#define WIFI_SSID               "YOUR_WIFI_SSID_HERE"
+#define WIFI_PASSWORD           "YOUR_WIFI_PASSWORD_HERE"
 
-// #define WIFI_SSID             "Browniesaurus_Ext"
-// #define WIFI_PASSWORD         "232778er"
+#define FIREBASE_DATABASE_URL   "YOUR_FIREBASE_DATABASE_URL_HERE"
+#define FIREBASE_WEBAPI_KEY     "YOUR_FIREBASE_WEB_API_KEY_HERE"
+#define FIREBASE_STORAGE_BUCKET "YOUR_FIREBASE_STORAGE_BUCKET_HERE"
 
-#define WIFI_SSID             "CEIOT"
-#define WIFI_PASSWORD         "CE-1OT@!"
-#define FIREBASE_DATABASE_URL "https://square-smartparcelbox-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_WEBAPI_KEY   "AIzaSyDKniNyPuVqhoCH7Pn5AsmDI21XqNH6WZo"
-#define FIREBASE_STORAGE_BUCKET "square-smartparcelbox.firebasestorage.app"
-#define DEVICE_EMAIL          "square_c2ec@smartparcelboxbyren.com"
-#define DEVICE_PASSWORD       "2Lt6YXmIPK0Xor2"
-#define USER_UID              "GW2Lt6YXmIPK0Xor2KWyy1picy13"
+#define DEVICE_EMAIL            "YOUR_DEVICE_EMAIL_HERE"
+#define DEVICE_PASSWORD         "YOUR_DEVICE_PASSWORD_HERE"
+#define USER_UID                "YOUR_USER_UID_HERE"
 
 #endif // CREDENTIALS_H
